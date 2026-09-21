@@ -1,0 +1,11 @@
+test_budget_determinism (test_model.Tests.test_budget_determinism) ... ok
+test_canonical (test_model.Tests.test_canonical) ... ok
+test_conflict (test_model.Tests.test_conflict) ... ok
+test_known_optimum (test_model.Tests.test_known_optimum) ... ok
+test_mutation_shape (test_model.Tests.test_mutation_shape) ... ok
+test_repair_property (test_model.Tests.test_repair_property) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.044s
+
+OK

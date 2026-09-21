@@ -1,0 +1,13 @@
+{
+  "population": 72,
+  "generations": 100,
+  "runs": 20,
+  "first_seed": 27000,
+  "mutation_probability": 0.15,
+  "penalty": 31,
+  "crossover_probability": 0.9,
+  "group": 507,
+  "student_number": 17,
+  "year": 2026,
+  "variant": 16
+}
